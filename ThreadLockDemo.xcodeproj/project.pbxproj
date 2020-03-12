@@ -454,7 +454,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.funmart.fun.ThreadLockDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.YQ.ThreadLockDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -471,7 +471,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.funmart.fun.ThreadLockDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.YQ.ThreadLockDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -489,7 +489,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.funmart.fun.ThreadLockDemoTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.YQ.ThreadLockDemoTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ThreadLockDemo.app/ThreadLockDemo";
@@ -508,7 +508,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.funmart.fun.ThreadLockDemoTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.YQ.ThreadLockDemoTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ThreadLockDemo.app/ThreadLockDemo";
@@ -526,7 +526,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.funmart.fun.ThreadLockDemoUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.YQ.ThreadLockDemoUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = ThreadLockDemo;
@@ -544,7 +544,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.funmart.fun.ThreadLockDemoUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.YQ.ThreadLockDemoUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = ThreadLockDemo;
